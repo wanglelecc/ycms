@@ -1,0 +1,11 @@
+{
+    "name": "wanglelecc/laravel-ycms",
+    "description": "laravel-ycms for laravel5",
+    "authors": [
+        {
+            "name": "wanglelecc",
+            "email": "wanglelecc@gmail.com"
+        }
+    ],
+    "require": {}
+}
