@@ -1,13 +1,13 @@
 <?php
 
-namespace Encore\Admin\Facades;
+namespace Wanglelecc\Ycms\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class Admin extends Facade
+class Ycms extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return \Encore\Admin\Admin::class;
+        return \Wanglelecc\Ycms\Ycms::class;
     }
 }

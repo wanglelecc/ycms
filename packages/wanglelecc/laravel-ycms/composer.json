@@ -7,5 +7,13 @@
             "email": "wanglelecc@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Wanglelecc\\Ycms\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
     "require": {}
 }

@@ -23,7 +23,7 @@
         ],
         "psr-4": {
             "App\\": "app/",
-            "Wanglelecc\\Ycms\\": "packages/wanglelecc/ycms/src/"
+            "Wanglelecc\\Ycms\\": "packages/wanglelecc/laravel-ycms/src/"
         }
     },
     "autoload-dev": {

@@ -1,11 +1,11 @@
 <?php
 
-namespace Encore\Admin;
+namespace Wanglele\Ycms;
 
 use Closure;
-use Encore\Admin\Auth\Database\Menu;
-use Encore\Admin\Layout\Content;
-use Encore\Admin\Widgets\Navbar;
+//use Encore\Admin\Auth\Database\Menu;
+//use Encore\Admin\Layout\Content;
+//use Encore\Admin\Widgets\Navbar;
 use Illuminate\Database\Eloquent\Model as EloquentModel;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Config;
@@ -13,9 +13,9 @@ use Illuminate\Support\Facades\Route;
 use InvalidArgumentException;
 
 /**
- * Class Admin.
+ * Class Ycms.
  */
-class Admin
+class Ycms
 {
     /**
      * @var Navbar
